@@ -1,8 +1,12 @@
 body {
     background-color: black;
+    color: white;
  }
- h1 {
+ h1,
+ h5 {
     text-align: center;
+    font-size: 32px;
+    color: white;
  }
  a {
     color: green;
